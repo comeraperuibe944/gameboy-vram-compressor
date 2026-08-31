@@ -1,4 +1,4 @@
-# GameBoy-VRAM-Compressor
+# gameboy-vram-compressor
 
 <p align="center">
   <img src="https://img.shields.io/badge/Target-Game_Boy_%2F_GBC-8B008B?style=for-the-badge&logo=nintendo&logoColor=white" />
